@@ -24,6 +24,7 @@ form {
   margin-bottom: 20px;
   margin-left: 6vh;
   
+  
 }
 
 input, textarea {
@@ -53,7 +54,7 @@ button {
   width: 30vh;
 }
 .intro{
-  width: 100%;
+ min-width: 100%;
   background-color: cadetblue;
   height: 10vh;
   padding-top: 3vh;
